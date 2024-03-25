@@ -1,4 +1,1 @@
 node_modules
-
-# add .env file to the ignore
-.env
