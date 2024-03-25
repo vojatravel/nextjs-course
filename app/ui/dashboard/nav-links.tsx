@@ -1,4 +1,5 @@
-'use client'; // This line is used to specify the client module
+'use client';
+
 import {
   UserGroupIcon,
   HomeIcon,

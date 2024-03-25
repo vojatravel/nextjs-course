@@ -153,7 +153,7 @@ const invoices = [
   },
   {
     customer_id: customers[0].id,
-    amount: 89045,
+    amount: 8945,
     status: 'paid',
     date: '2023-10-04',
   },
@@ -166,18 +166,18 @@ const invoices = [
 ];
 
 const revenue = [
-  { month: 'Jan', revenue: 20000 },
-  { month: 'Feb', revenue: 18000 },
-  { month: 'Mar', revenue: 22000 },
-  { month: 'Apr', revenue: 25000 },
-  { month: 'May', revenue: 23000 },
-  { month: 'Jun', revenue: 32000 },
-  { month: 'Jul', revenue: 35000 },
-  { month: 'Aug', revenue: 37000 },
-  { month: 'Sep', revenue: 25000 },
-  { month: 'Oct', revenue: 28000 },
-  { month: 'Nov', revenue: 30000 },
-  { month: 'Dec', revenue: 48000 },
+  { month: 'Jan', revenue: 2000 },
+  { month: 'Feb', revenue: 1800 },
+  { month: 'Mar', revenue: 2200 },
+  { month: 'Apr', revenue: 2500 },
+  { month: 'May', revenue: 2300 },
+  { month: 'Jun', revenue: 3200 },
+  { month: 'Jul', revenue: 3500 },
+  { month: 'Aug', revenue: 3700 },
+  { month: 'Sep', revenue: 2500 },
+  { month: 'Oct', revenue: 2800 },
+  { month: 'Nov', revenue: 3000 },
+  { month: 'Dec', revenue: 4800 },
 ];
 
 module.exports = {
