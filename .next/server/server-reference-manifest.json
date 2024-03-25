@@ -2,65 +2,83 @@
   "node": {
     "05863b3ad76953115c35e70cec423f3326ba78a9": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
-      }
-    },
-    "123346a8bea618ac83a15af6bf0e4a223b4a3103": {
-      "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "79fe9e8a7b98589f07b12a1728ebe0c26f43bd74": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "d695802355c8a5665b640d1bd8f9f3bdf6c34569": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "d8ff37ace5e0ba584a4d0c3392e01888eeb75c14": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
+      }
+    },
+    "e29186abb9ffe7644c0a1d35154872cc1a4857b0": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     },
     "ff3cbfae742e2a99e441ddf2a359ef60439ea335": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
+      }
+    },
+    "637078d16ff690924075818994ccab1d27f93c80": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc"
+      }
+    },
+    "bf7bce2a96fd4bf43eba53a26a34724f43463b94": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/register/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjoppemontezinos%2FDocuments%2FreactApps%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22updateInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/register/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "aONhdvG5m1v9epeNl6QOG8kBcb87YtmG530QRvwCiRI="
+  "encryptionKey": "v/sCw2b7LFL/JQk66mn+4yPPMB04TxECbWHyefvVi+o="
 }
